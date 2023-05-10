@@ -7,10 +7,10 @@ public class ListaDeProdutos {
     public ListaDeProdutos() {
         produtos = new ArrayList<>();
 
-        // Adicione os produtos desejados à lista de produtos
-        produtos.add(new Produto("Arroz", 10.0, 20));
-        produtos.add(new Produto("Feijão", 8.0, 15));
-        produtos.add(new Produto("Macarrão", 5.0, 30));
+       // Produtos do mercadinho com a realidade do brasil atual
+        produtos.add(new Produto("Arroz", 200.0, 20));
+        produtos.add(new Produto("Feijão", 800.0, 15));
+        produtos.add(new Produto("Macarrão", 5000.0, 30));
     }
 
     public List<Produto> getProdutos() {

@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class MiniMercado {
+    
     private static ListaDeProdutos listaDeProdutos;
     private static CarrinhoDeCompras carrinhoDeCompras;
     private static Caixa caixa;
