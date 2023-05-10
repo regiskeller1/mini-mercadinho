@@ -19,7 +19,7 @@ public class MiniMercado {
         int opcao = 0;
 
         do {
-            System.out.println("\n----- MINI-MERCADO -----");
+            System.out.println("\n----- MINI-MERCADO ANDERSON LANDGRAFS -----");
             System.out.println("1. Ver produtos disponíveis");
             System.out.println("2. Adicionar produto ao carrinho");
             System.out.println("3. Remover produto do carrinho");
