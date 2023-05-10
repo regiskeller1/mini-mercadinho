@@ -10,6 +10,9 @@ public class CarrinhoDeCompras {
         itens = new ArrayList<>();
         scanner = new Scanner(System.in);
     }
+    public List<Produto> getItens() {
+        return itens;
+    }
 
     public void adicionarProduto(ListaDeProdutos listaDeProdutos) {
         System.out.println("\n----- ADICIONAR PRODUTO AO CARRINHO -----");
@@ -84,7 +87,9 @@ public class CarrinhoDeCompras {
             }
         }
     }
-
+    public void limparCarrinho() {
+        itens.clear();
+    }
     public void visualizarCarrinho() {
         System.out.println("\n----- CARRINHO DE COMPRAS -----");
 
@@ -99,12 +104,5 @@ public class CarrinhoDeCompras {
                 System.out.println("---------------------------");
             }
         }
-    }
-    public List<Produto> getItens() {
-        return itens;
-    }
-
-    public void limparCarrinho() {
-        itens.clear();
     }
 }

@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83167a18-3678-423a-a0de-d2cbc25474d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miniMercadinho.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Caixa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarrinhoDeCompras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaDeProdutos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MiniMercado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Produto.java" afterDir="false" />
+    <list default="true" id="83167a18-3678-423a-a0de-d2cbc25474d1" name="Changes" comment="minimercadinho">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarrinhoDeCompras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarrinhoDeCompras.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +48,30 @@
       <option name="presentableId" value="Default" />
       <updated>1683694932290</updated>
     </task>
+    <task id="LOCAL-00001" summary="minimercadinho">
+      <created>1683696813554</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683696813554</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="minimercadinho" />
+    <option name="LAST_COMMIT_MESSAGE" value="minimercadinho" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util">
+            <option name="NOTIFY_UNCAUGHT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
